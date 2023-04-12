@@ -6,7 +6,7 @@
       "VersionNumber": 010001,
       "Date" : "04-12-2023",
       "Description": "Final production release",
-      "URL": "https://github.com/gigapod/ota-demo-exp/blob/bab79f699e41edca90ebc1ba8a078cab08a6f105/bin/sfeDatalogger_01.00.01.bin",
+      "URL": "https://raw.githubusercontent.com/gigapod/ota-demo-exp/main/bin/sfeDatalogger_01.00.01.bin",
       "Hash" : "2b69c0637cc39adbeae7c840b51b5023"
     }
   ]
